@@ -8988,7 +8988,7 @@
         a.createElement(Z.Of, {
             jssStyleSheet: w,
             onClick: () => {
-                window.open("https://donorbox.org/hello-48", "_blank");
+                window.open("https://donorbox.org/w8zrd", "_blank");
             }
         }, "Support us"),
                         
@@ -9140,7 +9140,7 @@
                                 jssStyleSheet: w,
                                 onClick: () => {
                                     // Open your donor link in a new tab.
-                                    window.open("https://donorbox.org/hello-48", "_blank");
+                                    window.open("https://donorbox.org/w8zrd", "_blank");
                                 }
                             }, "Support us")
                         );
