@@ -8985,12 +8985,6 @@
                         }, q.p.getString("newGame")), 
                         
                          // (A) Insert new Support button here if you want
-        a.createElement(Z.Of, {
-            jssStyleSheet: w,
-            onClick: () => {
-                window.open("https://donorbox.org/w8zrd", "_blank");
-            }
-        }, "Support Us"),
                         
                         a.createElement(T.iz, {
                             className: this.props.managedClasses.settingsHamburgerMenu_flyout_divider
@@ -9142,7 +9136,7 @@
                                     // Open your donor link in a new tab.
                                     window.open("https://donorbox.org/w8zrd", "_blank");
                                 }
-                            }, "Support us")
+                            }, "Support Us")
                         );
                     }
                     
