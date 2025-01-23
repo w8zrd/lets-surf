@@ -1,14 +1,14 @@
 # Microsoft Edge's *Let's Surf* + *Let's Ski*
 The *Let's Surf* + *Let's Ski* game from Microsoft Edge.
 
-Also check out [Chrome Dino](https://github.com/yell0wsuit/chrome-dino-enhanced) that saves your highscore.
+Also check out [Chrome Dino](https://w8zrd.github.io/Pixel-Dino) that saves your highscore.
 
 <p align="center">
   <img src="https://i.imgur.com/9ybOdy7.png"/>
 </p>
 
 ## Play
-Play online at https://yell0wsuit.page/html5-games/games/edge-surf/
+Play online at https://w8zrd.github.io/lets-surf/
 
 For offline play, go to the website and install this game as a web app (easiest method). Check the install button in the address bar of the browser.  
 On iOS, you need to use Safari and add the page to the homescreen.  
