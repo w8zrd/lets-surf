@@ -8990,7 +8990,7 @@
             onClick: () => {
                 window.open("https://donorbox.org/w8zrd", "_blank");
             }
-        }, "Support us"),
+        }, "Support Us"),
                         
                         a.createElement(T.iz, {
                             className: this.props.managedClasses.settingsHamburgerMenu_flyout_divider
